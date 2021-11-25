@@ -1,4 +1,4 @@
-Solution of the Order Summary Card challenge from Frontend Mentor
+Solution of the Order Summary Card challenge on Frontend Mentor
 
 As a web development self-taught newbie, this task perfectly led me how to properly use HTML and CSS, gave me a basic idea on how to start a web development project.
 
